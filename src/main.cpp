@@ -1,6 +1,6 @@
 #include<iostream>
 int main(void)
 {
-	std::cout<<"Mini-kv strat"<<std::endl;
+	std::cout<<"Mini-kv branch"<<std::endl;
 	return 0;
 }
